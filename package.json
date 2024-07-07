@@ -1,7 +1,7 @@
 {
   "name": "expensetracker",
   "version": "0.1.0",
-  "homepage": "http://arihantcode123.github.io/portfolio_react",
+  "homepage": "http://arihantcode123.github.io/expense_tracker",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
